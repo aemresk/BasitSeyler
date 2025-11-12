@@ -1,3 +1,4 @@
+-- İki tablo arası Foreign Key 
 SELECT 
     fk.name AS ForeignKeyName,
     tp.name AS ReferencingTable,
